@@ -1,0 +1,2 @@
+# satarter.
+git curse
